@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    setInterval(()=> {
+    setInterval(() => {
         $('p').toggle();
     }, 500);
 });
